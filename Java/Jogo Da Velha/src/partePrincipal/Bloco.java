@@ -46,7 +46,6 @@ public class Bloco extends JFrame implements ActionListener {
 	private int[] copie_tabla = new int[10];
 	private JLabel jlbSite = null;
 	private JButton jlbLogo = null;
-
 	private JPanel getJPanelTabuleiro() {
 		if (jPanelTabuleiro == null) {
 			jPanelTabuleiro = new JPanel();
