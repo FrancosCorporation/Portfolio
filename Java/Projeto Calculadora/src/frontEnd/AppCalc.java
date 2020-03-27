@@ -42,7 +42,6 @@ public class AppCalc extends JFrame {
 			}
 		});
 	}
-
 	/**
 	 * Create the frame.
 	 */
