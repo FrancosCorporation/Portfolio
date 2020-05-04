@@ -54,7 +54,7 @@ public class Splash {
         progressBar.setBorderPainted(false);
         progressBar.setStringPainted(true);
         progressBar.setBackground(Color.black);
-        progressBar.setForeground(Color.DARK_GRAY);
+        progressBar.setForeground(Color.darkGray);
         progressBar.setValue(0);
         frame.getContentPane().add(progressBar);
     }
