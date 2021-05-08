@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="1048 - Tecnicas de Programacao - Classes/src"/>
+	<classpathentry kind="src" path="1054 - Estrutura de Dados - Fila - Ocupacao de Mesas/src"/>
+	<classpathentry kind="src" path="1054 - Estrutura de Dados - Lista De Chamada/src"/>
+	<classpathentry kind="src" path="1054 - Estrutura de Dados - Lista Desordenada em Vetor - Estudo/src"/>
+	<classpathentry kind="src" path="1054 - Estrutura de Dados - Lista Desordenada em Vetor implementacao de metodos novos/src"/>
+	<classpathentry kind="src" path="1054 - Estrutura de Dados - Lista Desordenada em Vetor/src"/>
+	<classpathentry kind="src" path="1054 - Estrutura de Dados - Lista Ordenada em Vetor - Collections.sort/src"/>
+	<classpathentry kind="src" path="1054 - Estrutura de Dados - Pilha usando Vetores - Estudo/src"/>
+	<classpathentry kind="src" path="Aula03.03.20/src"/>
+	<classpathentry kind="src" path="CalculadoraDeData/src"/>
+	<classpathentry kind="src" path="figurasGeometricas/src"/>
+	<classpathentry kind="src" path="Japa Aula 10.03.2020/src"/>
+	<classpathentry kind="output" path="1048 - Tecnicas de Programacao - Classes/bin"/>
+</classpath>
