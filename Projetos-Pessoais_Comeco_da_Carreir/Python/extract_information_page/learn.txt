@@ -1,0 +1,4 @@
+List  :
+    len(list) consigo o tamanho
+    list.count(n) consigo verificar a ocorrencia dentro da lista do numero
+    
