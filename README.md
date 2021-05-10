@@ -1,3 +1,5 @@
 # Portfolio
 Todos os projetos acabados !!
-rsrs
+
+# Entre os começos de semestres na faculdade !
+Nada de muito profissional .
