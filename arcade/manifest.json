@@ -1,0 +1,2639 @@
+{
+ "gerado": "2026-09-25",
+ "total": 376,
+ "pendentes": 345,
+ "apps": [
+  {
+   "arquivo": "Java/Chat/src/Exemplos/ArquivodeScripCliente.java",
+   "nome": "ArquivodeScripCliente",
+   "categoria": "Outros",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Chat/src/Exemplos/ArquivodeScripServidor.java",
+   "nome": "ArquivodeScripServidor",
+   "categoria": "Outros",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Chat/src/Exemplos/Chat1.java",
+   "nome": "Chat1",
+   "categoria": "JOptionPane",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Chat/src/Exemplos/ComunicadorSeguro.java",
+   "nome": "ComunicadorSeguro",
+   "categoria": "Console-Scanner",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Chat/src/Exemplos/Criptografador.java",
+   "nome": "Criptografador",
+   "categoria": "Console-Scanner",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Chat/src/Exemplos/CriptografadorArquivo.java",
+   "nome": "CriptografadorArquivo",
+   "categoria": "Console-Scanner",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Chat/src/Exemplos/Descriptografador.java",
+   "nome": "Descriptografador",
+   "categoria": "Console-Scanner",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Chat/src/Exemplos/DescriptografadorArquivo.java",
+   "nome": "DescriptografadorArquivo",
+   "categoria": "Outros",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Chat/src/Exemplos/GeradorChave.java",
+   "nome": "GeradorChave",
+   "categoria": "Outros",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Chat/src/Exemplos/PeerChat1.java",
+   "nome": "PeerChat1",
+   "categoria": "Console-Scanner",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Chat/src/Exemplos/PeerChat2.java",
+   "nome": "PeerChat2",
+   "categoria": "JOptionPane",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Chat/src/Exemplos/Professor_Rafael.java",
+   "nome": "Professor_Rafael",
+   "categoria": "Outros",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Chat/src/Exemplos/TesteComunicador1.java",
+   "nome": "TesteComunicador1",
+   "categoria": "Console-Scanner",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Chat/src/Exemplos/clienteseguro.java",
+   "nome": "clienteseguro",
+   "categoria": "Console-Scanner",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Chat/src/Exemplos/servidorseguro.java",
+   "nome": "servidorseguro",
+   "categoria": "Outros",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Jogo Da Velha/src/partePrincipal/Bloco.java",
+   "nome": "Bloco",
+   "categoria": "Swing-GUI",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Jogo Da Velha/src/partePrincipal/JogoDaVelha.java",
+   "nome": "JogoDaVelha",
+   "categoria": "Swing-GUI",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Projeto Calculadora/src/frontEnd/AppCalc.java",
+   "nome": "AppCalc",
+   "categoria": "Swing-GUI",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Projeto Integrador Analisador de Csv/Desenvolvimento/Analizador CSV - V2.6/src/estatistica/Client.java",
+   "nome": "Client",
+   "categoria": "JOptionPane",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Projeto Integrador Analisador de Csv/Desenvolvimento/Analizador CSV - V2.6/src/estatistica/ContaOcorrencias.java",
+   "nome": "ContaOcorrencias",
+   "categoria": "Outros",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Projeto Integrador Analisador de Csv/Desenvolvimento/Analizador CSV - V2.6/src/estatistica/Estatistica.java",
+   "nome": "Estatistica",
+   "categoria": "Outros",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Projeto Integrador Analisador de Csv/Desenvolvimento/Analizador CSV - V2.6/src/frontEnd/Aplicativo.java",
+   "nome": "Aplicativo",
+   "categoria": "Swing-GUI",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Projeto Integrador Analisador de Csv/Desenvolvimento/Analizador CSV - V2.6/src/frontEnd/Leitor.java",
+   "nome": "Leitor",
+   "categoria": "Swing-GUI",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Projeto Integrador Analisador de Csv/Desenvolvimento/Analizador CSV - V2.6/src/frontEnd/Selecionador.java",
+   "nome": "Selecionador",
+   "categoria": "Swing-GUI",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Projeto Integrador Analisador de Csv/Desenvolvimento/Analizador CSV - V2.6/src/frontEnd/Splash.java",
+   "nome": "Splash",
+   "categoria": "Swing-GUI",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Projeto Integrador Analisador de Csv/Desenvolvimento/Analizador CSV - V2.6/src/grafico/Grafico.java",
+   "nome": "Grafico",
+   "categoria": "Swing-GUI",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Projeto Integrador Analisador de Csv/Desenvolvimento/Analizador CSV - V2.6/src/mysql/Conexao.java",
+   "nome": "Conexao",
+   "categoria": "JOptionPane",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Projeto Integrador Analisador de Csv/Desenvolvimento/Analizador CSV - V2.6/src/mysql/ConstrutorParaOArquivo.java",
+   "nome": "ConstrutorParaOArquivo",
+   "categoria": "JOptionPane",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Java/Projeto Integrador Analisador de Csv/Desenvolvimento/Analizador CSV - V2.6/src/mysql/Dao.java",
+   "nome": "Dao",
+   "categoria": "JOptionPane",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Em Desenvolvimeto/Abrindo Link/src/Padrao/NovaAba.java",
+   "nome": "NovaAba",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Em Desenvolvimeto/Abrindo Link/src/Padrao/webBrowser.java",
+   "nome": "webBrowser",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Em Desenvolvimeto/Baixando Videos/src/padrao/FazDownload.java",
+   "nome": "FazDownload",
+   "categoria": "JOptionPane",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Em Desenvolvimeto/Baixando Videos/src/padrao/Teste.java",
+   "nome": "Teste",
+   "categoria": "JOptionPane",
+   "status": "portado",
+   "portadoEm": "repo próprio (ver README)"
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Em Desenvolvimeto/Conversor de Bases/src/FrontEnd/NewFrontEnd.java",
+   "nome": "NewFrontEnd",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Em Desenvolvimeto/Conversor de Bases/src/Logica/Logica_1.java",
+   "nome": "Logica_1",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Em Desenvolvimeto/Conversor de Bases/src/Logica/Teste.java",
+   "nome": "Teste",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Em Desenvolvimeto/Meuapp/app/RodolfoChat.java",
+   "nome": "RodolfoChat",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Em Desenvolvimeto/Rodolfo/src/app/Server.java",
+   "nome": "Server",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Em Desenvolvimeto/Rodolfo/src/app/matheus.java",
+   "nome": "matheus",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Em Desenvolvimeto/Rodolfo/src/teste/Teste.java",
+   "nome": "Teste",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Em Desenvolvimeto/Rodolfo/src/vai/FXMLDocumentController.java",
+   "nome": "FXMLDocumentController",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Em Desenvolvimeto/Rodolfo/src/vai/Server.java",
+   "nome": "Server",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Em Desenvolvimeto/Rodolfo/src/vai/leiatamanho.java",
+   "nome": "leiatamanho",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Em Desenvolvimeto/Rodolfo/src/vai/servidor.java",
+   "nome": "servidor",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Em Desenvolvimeto/Rodolfo/src/vai/teste.java",
+   "nome": "teste",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Em Desenvolvimeto/Strings/src/comparacoes/MetodoCompareTo.java",
+   "nome": "MetodoCompareTo",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Exemplos/CaixaDialogoComReturn/src/padrao/CaixaDialogoComReturn.java",
+   "nome": "CaixaDialogoComReturn",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Exemplos/CorrecaoManipulacaoArquivo/src/ManipularArquivos.java",
+   "nome": "ManipularArquivos",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Exemplos/CorrecaoManipulacaoArquivo/src/Principal.java",
+   "nome": "Principal",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Exemplos/CorrecaoManipulacaoArquivo/src/Professor.java",
+   "nome": "Professor",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Exemplos/ExemploBancoDeDadosConexao/src/backEnd/AcessoNoBanco.java",
+   "nome": "AcessoNoBanco",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Exemplos/ExemploBancoDeDadosConexao/src/backEnd/CadastroDePessoas.java",
+   "nome": "CadastroDePessoas",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Exemplos/ExemploBancoDeDadosConexao/src/backEnd/ConexaoBd.java",
+   "nome": "ConexaoBd",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Exemplos/ExemploBancoDeDadosConexao/src/backEnd/ListarCadastros.java",
+   "nome": "ListarCadastros",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Exemplos/ExemploBancoDeDadosConexao/src/frontEnd/InserirDados.java",
+   "nome": "InserirDados",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Exemplos/ExemploBancoDeDadosConexao/src/frontEnd/Interface.java",
+   "nome": "Interface",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Exemplos/ExemploConexaoBD/src/dao/Conexao.java",
+   "nome": "Conexao",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Exemplos/ExemploConexaoBD/src/dao/MarcaDao.java",
+   "nome": "MarcaDao",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Exemplos/ExemploConexaoBD/src/modelo/CadastroDePessoas.java",
+   "nome": "CadastroDePessoas",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Exemplos/ExemploConexaoBD/src/teste/TesteConexao.java",
+   "nome": "TesteConexao",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Exemplos/Objeto Date-Teste/src/testando/classe_principal.java",
+   "nome": "classe_principal",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Exemplos/Objeto Date-Teste/src/testando/objeto.java",
+   "nome": "objeto",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Exemplos/TesteGUI/src/principal/Calculadora.java",
+   "nome": "Calculadora",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Exemplos/TesteGUI/src/principal/MinhaPrimeiraJanela.java",
+   "nome": "MinhaPrimeiraJanela",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Exemplos/TesteGUI/src/principal/SegundaJanela.java",
+   "nome": "SegundaJanela",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Exemplos/TesteGUI/src/principal/Teste.java",
+   "nome": "Teste",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Exemplos/Tudo De Vetores/src/padrao/OrganizandoUmVetorPorPosicao.java",
+   "nome": "OrganizandoUmVetorPorPosicao",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Exemplos/Tudo De Vetores/src/padrao/Principal.java",
+   "nome": "Principal",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Exemplos/Tudo De Vetores/src/padrao/Teste.java",
+   "nome": "Teste",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Exemplos/Tudo De Vetores/src/padrao/UtilizandoVetores.java",
+   "nome": "UtilizandoVetores",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Exemplos/TudoDeImagens/src/padrao/LoadingPicture.java",
+   "nome": "LoadingPicture",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/ProjetoIntegrador Chat 0.0/src/geral/BackEnd.java",
+   "nome": "BackEnd",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/ProjetoIntegrador Chat 0.0/src/geral/FrontEnd.java",
+   "nome": "FrontEnd",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/ProjetoIntegrador Chat 0.0/src/geral/TesteArquivo.java",
+   "nome": "TesteArquivo",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/ProjetoIntegrador Chat 0.0/src/geral/Teste_sub.java",
+   "nome": "Teste_sub",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Agenda/src/agenda/FrmContatos.java",
+   "nome": "FrmContatos",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Agenda/src/agenda/MostrarListaEmTabela.java",
+   "nome": "MostrarListaEmTabela",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Agenda/src/agenda/Pessoa.java",
+   "nome": "Pessoa",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Agenda/src/agenda/Teste.java",
+   "nome": "Teste",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/AgendaCorrecao/src/FrmContatos.java",
+   "nome": "FrmContatos",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/AgendaCorrecao/src/FrmContatosLista.java",
+   "nome": "FrmContatosLista",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/AgendaCorrecao/src/FrmContatosLista2.java",
+   "nome": "FrmContatosLista2",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/AgendaCorrecao/src/Pessoa.java",
+   "nome": "Pessoa",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Cadastro Clinica Veterinaria/src/backEnd/CadastroAdm.java",
+   "nome": "CadastroAdm",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Cadastro Clinica Veterinaria/src/backEnd/CadastroAnimal.java",
+   "nome": "CadastroAnimal",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Cadastro Clinica Veterinaria/src/backEnd/CadastroFuncionarios.java",
+   "nome": "CadastroFuncionarios",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Cadastro Clinica Veterinaria/src/backEnd/ListarCadastros.java",
+   "nome": "ListarCadastros",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Cadastro Clinica Veterinaria/src/backEnd/LogicaClinica.java",
+   "nome": "LogicaClinica",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Cadastro Clinica Veterinaria/src/painelCentral/TelaCadastro.java",
+   "nome": "TelaCadastro",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Cadastro Clinica Veterinaria/src/painelCentral/TelaLogin.java",
+   "nome": "TelaLogin",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Cadastro Clinica Veterinaria/src/painelCentral/TelaPrincipal.java",
+   "nome": "TelaPrincipal",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Cadastro Clinica Veterinaria --version 0.1/src/backEnd/AlteracoesDiretorios.java",
+   "nome": "AlteracoesDiretorios",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Cadastro Clinica Veterinaria --version 0.1/src/backEnd/CadastroAdm.java",
+   "nome": "CadastroAdm",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Cadastro Clinica Veterinaria --version 0.1/src/backEnd/CadastroAnimal.java",
+   "nome": "CadastroAnimal",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Cadastro Clinica Veterinaria --version 0.1/src/backEnd/CadastroFuncionarios.java",
+   "nome": "CadastroFuncionarios",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Cadastro Clinica Veterinaria --version 0.1/src/backEnd/ImportarDadosAnimais.java",
+   "nome": "ImportarDadosAnimais",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Cadastro Clinica Veterinaria --version 0.1/src/backEnd/ImportarDadosFuncionarios.java",
+   "nome": "ImportarDadosFuncionarios",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Cadastro Clinica Veterinaria --version 0.1/src/backEnd/ListarCadastros.java",
+   "nome": "ListarCadastros",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Cadastro Clinica Veterinaria --version 0.1/src/backEnd/LogicaClinica.java",
+   "nome": "LogicaClinica",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Cadastro Clinica Veterinaria --version 0.1/src/backEnd/TelaCadastro.java",
+   "nome": "TelaCadastro",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Cadastro Clinica Veterinaria --version 0.1/src/backEnd/TelaExcluir.java",
+   "nome": "TelaExcluir",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Cadastro Clinica Veterinaria --version 0.1/src/painelCentral/TelaLogin.java",
+   "nome": "TelaLogin",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Cadastro Clinica Veterinaria --version 0.1/src/painelCentral/TelaPrincipal.java",
+   "nome": "TelaPrincipal",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Calculador/src/soma/calc.java",
+   "nome": "calc",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/EstatisticaCalculos/src/Calculadoradeprobabilidade.java",
+   "nome": "Calculadoradeprobabilidade",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Faculdade/src/Principal/Aluno.java",
+   "nome": "Aluno",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Faculdade/src/Principal/Curso.java",
+   "nome": "Curso",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Faculdade/src/Principal/Imovel.java",
+   "nome": "Imovel",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Faculdade/src/Teste/Teste.java",
+   "nome": "Teste",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Faustino2nd/src/Class_poo/Banco.java",
+   "nome": "Banco",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Faustino2nd/src/Class_poo/Controle_custos.java",
+   "nome": "Controle_custos",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Faustino2nd/src/Class_poo/Controle_custos2.java",
+   "nome": "Controle_custos2",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Faustino2nd/src/Class_poo/Estatistica_calc_quartis.java",
+   "nome": "Estatistica_calc_quartis",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Faustino2nd/src/Class_poo/Lista1.java",
+   "nome": "Lista1",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Faustino2nd/src/Exemplos/aluno.java",
+   "nome": "aluno",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Faustino2nd/src/Exemplos/classes/Cadeira.java",
+   "nome": "Cadeira",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Faustino2nd/src/Exemplos/classes/Mesa.java",
+   "nome": "Mesa",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Faustino2nd/src/Exemplos/classes/Teste.java",
+   "nome": "Teste",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Faustino2nd/src/Exemplos/testes/TesteCadeira.java",
+   "nome": "TesteCadeira",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Faustino2nd/src/Exemplos1/Teste_aluno.java",
+   "nome": "Teste_aluno",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Faustino2nd/src/Exemplos1/classes/Curso.java",
+   "nome": "Curso",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Faustino2nd/src/Exemplos1/classes/Imovel.java",
+   "nome": "Imovel",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Faustino2nd/src/Exemplos1/classes/Produto.java",
+   "nome": "Produto",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Faustino2nd/src/Exemplos1/testes/TesteCurso.java",
+   "nome": "TesteCurso",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Faustino2nd/src/Exemplos1/testes/TesteImovel.java",
+   "nome": "TesteImovel",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Faustino2nd/src/Exemplos1/testes/TesteProduto.java",
+   "nome": "TesteProduto",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Festa/src/Financeiro/CamaroteInferior.java",
+   "nome": "CamaroteInferior",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Festa/src/Financeiro/CamaroteSuperior.java",
+   "nome": "CamaroteSuperior",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Festa/src/Financeiro/Ingresso.java",
+   "nome": "Ingresso",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Festa/src/Financeiro/Vip.java",
+   "nome": "Vip",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Festa/src/TesteIngresso/TestandoIngresso.java",
+   "nome": "TestandoIngresso",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Imovel/src/principal/Imovel.java",
+   "nome": "Imovel",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Imovel/src/principal/Novo.java",
+   "nome": "Novo",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Imovel/src/principal/TestandoImoveis.java",
+   "nome": "TestandoImoveis",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Imovel/src/principal/Velho.java",
+   "nome": "Velho",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Lista14102019/src/ExemplosCapitulo11/AssertTest.java",
+   "nome": "AssertTest",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Lista14102019/src/ExemplosCapitulo11/DivideByZeroWithExceptionHandling.java",
+   "nome": "DivideByZeroWithExceptionHandling",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Lista14102019/src/ExemplosCapitulo11/DividindoPorZero.java",
+   "nome": "DividindoPorZero",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Lista14102019/src/ExemplosCapitulo11/Exemplo11_8.java",
+   "nome": "Exemplo11_8",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Lista14102019/src/ExemplosCapitulo11/Tratamento.java",
+   "nome": "Tratamento",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Lista14102019/src/ExemplosCapitulo11/UsingExceptions.java",
+   "nome": "UsingExceptions",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaDia03102019/src/Empresa/ArmarioBanheiro.java",
+   "nome": "ArmarioBanheiro",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaDia03102019/src/Empresa/Cama.java",
+   "nome": "Cama",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaDia03102019/src/Empresa/Estante.java",
+   "nome": "Estante",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaDia03102019/src/Empresa/GuardaRoupa.java",
+   "nome": "GuardaRoupa",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaDia03102019/src/Empresa/Loja.java",
+   "nome": "Loja",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaDia03102019/src/Empresa/Madeira.java",
+   "nome": "Madeira",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaDia03102019/src/Empresa/Mesa.java",
+   "nome": "Mesa",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaDia03102019/src/Empresa/Metal.java",
+   "nome": "Metal",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaDia03102019/src/Empresa/Movel.java",
+   "nome": "Movel",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaDia03102019/src/Empresa/Plastico.java",
+   "nome": "Plastico",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaDia03102019/src/Escola/Diretor.java",
+   "nome": "Diretor",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaDia03102019/src/Escola/DominioAdm.java",
+   "nome": "DominioAdm",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaDia03102019/src/Escola/DominioInformatica.java",
+   "nome": "DominioInformatica",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaDia03102019/src/Escola/DominioMatematica.java",
+   "nome": "DominioMatematica",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaDia03102019/src/Escola/DominioPortugues.java",
+   "nome": "DominioPortugues",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaDia03102019/src/Escola/Escola.java",
+   "nome": "Escola",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaDia03102019/src/Escola/ProfessorCompleto.java",
+   "nome": "ProfessorCompleto",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaDia03102019/src/Escola/ProfessorMatematica.java",
+   "nome": "ProfessorMatematica",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaDia03102019/src/Escola/ProfessorPortugues.java",
+   "nome": "ProfessorPortugues",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaDia03102019/src/Escola/Profissional.java",
+   "nome": "Profissional",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaDia03102019/src/Objetos/Bicicleta.java",
+   "nome": "Bicicleta",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaDia03102019/src/Objetos/Carro.java",
+   "nome": "Carro",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaDia03102019/src/Objetos/Item.java",
+   "nome": "Item",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaDia03102019/src/Objetos/Lavajato.java",
+   "nome": "Lavajato",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaDia03102019/src/Objetos/Moto.java",
+   "nome": "Moto",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaProfessores/src/exercicio/AdicionarProf.java",
+   "nome": "AdicionarProf",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaProfessores/src/exercicio/AlterarProf.java",
+   "nome": "AlterarProf",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaProfessores/src/exercicio/CadastroAnimal.java",
+   "nome": "CadastroAnimal",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaProfessores/src/exercicio/CadastroProfessores.java",
+   "nome": "CadastroProfessores",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaProfessores/src/exercicio/EscolherPasta.java",
+   "nome": "EscolherPasta",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaProfessores/src/exercicio/ExcluirProf.java",
+   "nome": "ExcluirProf",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaProfessores/src/exercicio/GravarArquivo.java",
+   "nome": "GravarArquivo",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaProfessores/src/exercicio/LerArquivos.java",
+   "nome": "LerArquivos",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaProfessores/src/exercicio/Listar.java",
+   "nome": "Listar",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ListaProfessores/src/exercicio/MenuAlterarProf.java",
+   "nome": "MenuAlterarProf",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/MarceloExercicio2.2/src/ClasseAbrastrataComImplements/Atleta.java",
+   "nome": "Atleta",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/MarceloExercicio2.2/src/ClasseAbrastrataComImplements/Ciclistas.java",
+   "nome": "Ciclistas",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/MarceloExercicio2.2/src/ClasseAbrastrataComImplements/Corredores.java",
+   "nome": "Corredores",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/MarceloExercicio2.2/src/ClasseAbrastrataComImplements/Nadadores.java",
+   "nome": "Nadadores",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/MarceloExercicio2.2/src/ClasseAbrastrataComImplements/Pessoa.java",
+   "nome": "Pessoa",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/MarceloExercicio2.2/src/ClasseAbrastrataComImplements/TesteInterfaces.java",
+   "nome": "TesteInterfaces",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/MarceloExercicio2.2/src/ClasseAbrastrataComImplements/Triatleta.java",
+   "nome": "Triatleta",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/MarceloExercicio2.2/src/Principal/TesteAutomovel.java",
+   "nome": "TesteAutomovel",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/MarceloExercicio2.2/src/carros/Automovel.java",
+   "nome": "Automovel",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/MarceloExercio2/src/Teste/Testemedicamento.java",
+   "nome": "Testemedicamento",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/MarceloExercio2/src/remedio/Medicamento.java",
+   "nome": "Medicamento",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista1/Exercicio01.java",
+   "nome": "Exercicio01",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista1/Exercicio1_1.java",
+   "nome": "Exercicio1_1",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista1/Exercicio1_10.java",
+   "nome": "Exercicio1_10",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista1/Exercicio1_2.java",
+   "nome": "Exercicio1_2",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista1/Exercicio1_3.java",
+   "nome": "Exercicio1_3",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista1/Exercicio1_4.java",
+   "nome": "Exercicio1_4",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista1/Exercicio1_5.java",
+   "nome": "Exercicio1_5",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista1/Exercicio1_6.java",
+   "nome": "Exercicio1_6",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista1/Exercicio1_7.java",
+   "nome": "Exercicio1_7",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista1/Exercicio1_8.java",
+   "nome": "Exercicio1_8",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista1/Exercicio1_9.java",
+   "nome": "Exercicio1_9",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista2/Exercicio2_1.java",
+   "nome": "Exercicio2_1",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista2/Exercicio2_2.java",
+   "nome": "Exercicio2_2",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista2/Exercicio2_3.java",
+   "nome": "Exercicio2_3",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista2/Exercicio2_4.java",
+   "nome": "Exercicio2_4",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista2/Exercicio2_5.java",
+   "nome": "Exercicio2_5",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista2/Exercicio2_6.java",
+   "nome": "Exercicio2_6",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista3/Exercicio3_1.java",
+   "nome": "Exercicio3_1",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista3/Exercicio3_2.java",
+   "nome": "Exercicio3_2",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista3/Exercicio3_3.java",
+   "nome": "Exercicio3_3",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista3/Exercicio3_4.java",
+   "nome": "Exercicio3_4",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista3/Exercicio3_5.java",
+   "nome": "Exercicio3_5",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista3/Exercicio3_6.java",
+   "nome": "Exercicio3_6",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista3/Exercicio3_7.java",
+   "nome": "Exercicio3_7",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista4/Exercicio4_1.java",
+   "nome": "Exercicio4_1",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista4/Exercicio4_2.java",
+   "nome": "Exercicio4_2",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista4/Exercicio4_3.java",
+   "nome": "Exercicio4_3",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista4/Exercicio4_4.java",
+   "nome": "Exercicio4_4",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista5/Exercicio5_1.java",
+   "nome": "Exercicio5_1",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista5/Exercicio5_10.java",
+   "nome": "Exercicio5_10",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista5/Exercicio5_2.java",
+   "nome": "Exercicio5_2",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista5/Exercicio5_3.java",
+   "nome": "Exercicio5_3",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista5/Exercicio5_4.java",
+   "nome": "Exercicio5_4",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista5/Exercicio5_5.java",
+   "nome": "Exercicio5_5",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista5/Exercicio5_6.java",
+   "nome": "Exercicio5_6",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista5/Exercicio5_7.java",
+   "nome": "Exercicio5_7",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista5/Exercicio5_8.java",
+   "nome": "Exercicio5_8",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista5/Exercicio5_9.java",
+   "nome": "Exercicio5_9",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista6/Exercicio06_10.java",
+   "nome": "Exercicio06_10",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista6/Exercicio06_11.java",
+   "nome": "Exercicio06_11",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista6/Exercicio06_12.java",
+   "nome": "Exercicio06_12",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista6/Exercicio06_13.java",
+   "nome": "Exercicio06_13",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista6/Exercicio06_14.java",
+   "nome": "Exercicio06_14",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista6/exercicio06_1.java",
+   "nome": "exercicio06_1",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista6/exercicio06_2.java",
+   "nome": "exercicio06_2",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista6/exercicio06_3.java",
+   "nome": "exercicio06_3",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista6/exercicio06_4.java",
+   "nome": "exercicio06_4",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista6/exercicio06_5.java",
+   "nome": "exercicio06_5",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista6/exercicio06_6.java",
+   "nome": "exercicio06_6",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista6/exercicio06_7.java",
+   "nome": "exercicio06_7",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista6/exercicio06_8.java",
+   "nome": "exercicio06_8",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista6/exercicio06_9.java",
+   "nome": "exercicio06_9",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista6/louco.java",
+   "nome": "louco",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista7/Exercicio7_1.java",
+   "nome": "Exercicio7_1",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista7/Exercicio7_10_simples.java",
+   "nome": "Exercicio7_10_simples",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista7/Exercicio7_2.java",
+   "nome": "Exercicio7_2",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista7/Exercicio7_3.java",
+   "nome": "Exercicio7_3",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista7/Exercicio7_4.java",
+   "nome": "Exercicio7_4",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista7/Exercicio7_4_simples.java",
+   "nome": "Exercicio7_4_simples",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista7/Exercicio7_5_simples.java",
+   "nome": "Exercicio7_5_simples",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista7/Exercicio7_6_simples.java",
+   "nome": "Exercicio7_6_simples",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista7/Exercicio7_7_simples.java",
+   "nome": "Exercicio7_7_simples",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista7/Exercicio7_8_simples.java",
+   "nome": "Exercicio7_8_simples",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista7/Exercicio7_9_simples.java",
+   "nome": "Exercicio7_9_simples",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista7/aff.java",
+   "nome": "aff",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista8/Exercicio8_1_simples.java",
+   "nome": "Exercicio8_1_simples",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista8/Exercicio8_2_simples.java",
+   "nome": "Exercicio8_2_simples",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista8/Exercicio8_3_simples.java",
+   "nome": "Exercicio8_3_simples",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista8/Exercicio8_4_simples.java",
+   "nome": "Exercicio8_4_simples",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista8/Exercicio8_5_simples.java",
+   "nome": "Exercicio8_5_simples",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista8/Exercicio8_6_simples.java",
+   "nome": "Exercicio8_6_simples",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista8/Exercicio8_7_simples.java",
+   "nome": "Exercicio8_7_simples",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/Exercicioslista8/Exercicio8_8_simples.java",
+   "nome": "Exercicio8_8_simples",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/ListasTestes/ExemploEnquanto.java",
+   "nome": "ExemploEnquanto",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/ListasTestes/ExemploEnquanto2.java",
+   "nome": "ExemploEnquanto2",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/ListasTestes/Exer8.java",
+   "nome": "Exer8",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/ListasTestes/Novo.java",
+   "nome": "Novo",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/ListasTestes/Teste.java",
+   "nome": "Teste",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/ListasTestes/Teste_zg_solucoes.java",
+   "nome": "Teste_zg_solucoes",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/ListasTestes/Vetores.java",
+   "nome": "Vetores",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/ListasTestes/doido.java",
+   "nome": "doido",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/ListasTestes/testess.java",
+   "nome": "testess",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/correcaoproff/Exercicio01.java",
+   "nome": "Exercicio01",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/correcaoproff/Exercicio01B.java",
+   "nome": "Exercicio01B",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/correcaoproff/Exercicio01C.java",
+   "nome": "Exercicio01C",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/correcaoproff/Exercicio02.java",
+   "nome": "Exercicio02",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/correcaoproff/Exercicio03.java",
+   "nome": "Exercicio03",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/correcaoproff/Exercicio10.java",
+   "nome": "Exercicio10",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/matheus/Exer7.java",
+   "nome": "Exer7",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/vetores/Exercicio1.java",
+   "nome": "Exercicio1",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/vetores/Exercicio2.java",
+   "nome": "Exercicio2",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/vetores/Exercicio3.java",
+   "nome": "Exercicio3",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/vetores/Exercicio4.java",
+   "nome": "Exercicio4",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Primeiro/vetores/Exercicio5.java",
+   "nome": "Exercicio5",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Segundo/Exercicios/Funcionario.java",
+   "nome": "Funcionario",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Prof Marcelo Faustino/src/Segundo/Exercicios/NovaCalculadora.java",
+   "nome": "NovaCalculadora",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ProjetoAnimal/src/Animal/Animal.java",
+   "nome": "Animal",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ProjetoAnimal/src/Animal/Cachorro.java",
+   "nome": "Cachorro",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ProjetoAnimal/src/Animal/Gato.java",
+   "nome": "Gato",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ProjetoAnimal/src/Principal/TesteAnimal.java",
+   "nome": "TesteAnimal",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ProjetoPessoa/src/Pessoa/Miseravel.java",
+   "nome": "Miseravel",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ProjetoPessoa/src/Pessoa/Pessoa.java",
+   "nome": "Pessoa",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ProjetoPessoa/src/Pessoa/Pobre.java",
+   "nome": "Pobre",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ProjetoPessoa/src/Pessoa/Rica.java",
+   "nome": "Rica",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/ProjetoPessoa/src/Testador/TestePessoa.java",
+   "nome": "TestePessoa",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Teste/src/teste/Animal.java",
+   "nome": "Animal",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Teste/src/teste/CriandoFelinos.java",
+   "nome": "CriandoFelinos",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Teste/src/teste/Pessoa.java",
+   "nome": "Pessoa",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Projetos Senac 1-2 semestres/Teste/src/teste/Triatleta.java",
+   "nome": "Triatleta",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - CalculadoraDeData/src/padrao/ClasseDeCalculo.java",
+   "nome": "ClasseDeCalculo",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - CalculadoraDeData/src/padrao/ClassePrincipal.java",
+   "nome": "ClassePrincipal",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Classes/src/principal/ChamandoMetodo.java",
+   "nome": "ChamandoMetodo",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Classes/src/principal/Empresa.java",
+   "nome": "Empresa",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Exercicios/src/classeCarro/Carro.java",
+   "nome": "Carro",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Exercicios/src/classeCarro/ClassePrincipal.java",
+   "nome": "ClassePrincipal",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Exercicios/src/exerc1/CalcularIdade.java",
+   "nome": "CalcularIdade",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Exercicios/src/exerc1/Pessoa.java",
+   "nome": "Pessoa",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Exercicios/src/exerc2/AdivinhaNumero.java",
+   "nome": "AdivinhaNumero",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Exercicios/src/exerc2/FuncaoPrincipal.java",
+   "nome": "FuncaoPrincipal",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Exercicios/src/exerc3/Lampada.java",
+   "nome": "Lampada",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Exercicios/src/exerc3/Principal.java",
+   "nome": "Principal",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Exercicios/src/exerc4/Arma.java",
+   "nome": "Arma",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Exercicios/src/exerc4/Principal.java",
+   "nome": "Principal",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Exercicios/src/exerc5/ClassePrincipal.java",
+   "nome": "ClassePrincipal",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Exercicios/src/exerc5/ClasseTelevisao.java",
+   "nome": "ClasseTelevisao",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Exercicios/src/exerc5/ControleRemoto.java",
+   "nome": "ControleRemoto",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Figuras geometricas/src/figurasgeometricas/FigurasGeometricas.java",
+   "nome": "FigurasGeometricas",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Figuras geometricas/src/figurasgeometricas/Quadrado.java",
+   "nome": "Quadrado",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Figuras geometricas/src/figurasgeometricas/Triangulo.java",
+   "nome": "Triangulo",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Heranca Unica/src/padrao/Agencia.java",
+   "nome": "Agencia",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Heranca Unica/src/padrao/Cliente.java",
+   "nome": "Cliente",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Heranca Unica/src/padrao/Conta.java",
+   "nome": "Conta",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Heranca Unica/src/padrao/ContaPoupanca.java",
+   "nome": "ContaPoupanca",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Heranca Unica/src/padrao/Principal.java",
+   "nome": "Principal",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Heranca Unica e Associacoes/src/exercicio1/Mercado.java",
+   "nome": "Mercado",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Heranca Unica e Associacoes/src/exercicio1/Principal.java",
+   "nome": "Principal",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Heranca Unica e Associacoes/src/exercicio1/Produto.java",
+   "nome": "Produto",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Heranca Unica e Associacoes/src/exercicio2/PainelVisual.java",
+   "nome": "PainelVisual",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Heranca Unica e Associacoes/src/exercicio2/Pikachu.java",
+   "nome": "Pikachu",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Heranca Unica e Associacoes/src/exercicio2/Pokemon.java",
+   "nome": "Pokemon",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Heranca Unica e Associacoes/src/exercicio2/Ponyta.java",
+   "nome": "Ponyta",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Heranca Unica e Associacoes/src/exercicio2/Raichu.java",
+   "nome": "Raichu",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Heranca Unica e Associacoes/src/exercicio2/Rapidash.java",
+   "nome": "Rapidash",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Implementando Cursos/src/padrao/Aluno.java",
+   "nome": "Aluno",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Implementando Cursos/src/padrao/Curso.java",
+   "nome": "Curso",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Implementando Cursos/src/padrao/Instrutor.java",
+   "nome": "Instrutor",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Implementando Cursos/src/padrao/Principal.java",
+   "nome": "Principal",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Implementando Cursos/src/zoologico/Animais.java",
+   "nome": "Animais",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Implementando Cursos/src/zoologico/Zoologico.java",
+   "nome": "Zoologico",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Implementando Cursos/src/zoologico/progZoologico.java",
+   "nome": "progZoologico",
+   "categoria": "Console-Scanner",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Prova/src/padrao/Box.java",
+   "nome": "Box",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Prova/src/padrao/Cd.java",
+   "nome": "Cd",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Prova/src/padrao/Dvd.java",
+   "nome": "Dvd",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Prova/src/padrao/Livro.java",
+   "nome": "Livro",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Prova/src/padrao/Midia.java",
+   "nome": "Midia",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Prova/src/padrao/Principal.java",
+   "nome": "Principal",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1048 - Tecnicas de Programacao - Prova/src/padrao/Produto.java",
+   "nome": "Produto",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Fila - Ocupacao de Mesas/src/App.java",
+   "nome": "App",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Fila - Ocupacao de Mesas/src/Casa.java",
+   "nome": "Casa",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Fila - Ocupacao de Mesas/src/Mesa.java",
+   "nome": "Mesa",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Fila circular - Exercicio - trazendo classe item/src/padrao/App.java",
+   "nome": "App",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Fila circular - Exercicio - trazendo classe item/src/padrao/Item.java",
+   "nome": "Item",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Fila circular - Exercicio - trazendo classe item/src/padrao/Lista.java",
+   "nome": "Lista",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Fila circular usando arranjos/src/padrao/Celula.java",
+   "nome": "Celula",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Fila circular usando arranjos/src/padrao/Fila.java",
+   "nome": "Fila",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Fila circular usando arranjos/src/padrao/Principal.java",
+   "nome": "Principal",
+   "categoria": "Swing-GUI",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Lista De Chamada/src/listaDeChamada/ClassePrincipal.java",
+   "nome": "ClassePrincipal",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Lista De Chamada/src/listaDeChamada/ListaDeChamada.java",
+   "nome": "ListaDeChamada",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Lista Desordenada em Vetor/src/padrao/App.java",
+   "nome": "App",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Lista Desordenada em Vetor/src/padrao/Lista.java",
+   "nome": "Lista",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Lista Desordenada em Vetor implementacao de metodos novos/src/padrao/App.java",
+   "nome": "App",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Lista Desordenada em Vetor implementacao de metodos novos/src/padrao/Lista.java",
+   "nome": "Lista",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Lista Ordenada em Vetor na Unha/src/App.java",
+   "nome": "App",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Lista Ordenada em Vetor na Unha/src/Lista.java",
+   "nome": "Lista",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Lista Ordenada em Vetor na Unha/src/Pessoa.java",
+   "nome": "Pessoa",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Listas - Ligadas Ordenadas Lineares/src/padrao/Item.java",
+   "nome": "Item",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Listas - Ligadas Ordenadas Lineares/src/padrao/Lista.java",
+   "nome": "Lista",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Listas - Ligadas Ordenadas Lineares/src/padrao/Main.java",
+   "nome": "Main",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Pilha - Auto Referenciada - Livros/src/padrao/Livro.java",
+   "nome": "Livro",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Pilha - Auto Referenciada - Livros/src/padrao/Pilha.java",
+   "nome": "Pilha",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Pilha - Auto Referenciada - Livros/src/padrao/Principal.java",
+   "nome": "Principal",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Pilha - Auto Referenciada - Pessoas/src/padrao/Pilha.java",
+   "nome": "Pilha",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Pilha - Auto Referenciada - Pessoas/src/padrao/Principal.java",
+   "nome": "Principal",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Pilha - Auto Referenciada - Pessoas insercao Comeco/src/padrao/Pessoa.java",
+   "nome": "Pessoa",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Pilha - Auto Referenciada - Pessoas insercao Comeco/src/padrao/Pilha.java",
+   "nome": "Pilha",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Pilha usando Vetores - Estudo/src/Peca.java",
+   "nome": "Peca",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Pilha usando Vetores - Estudo/src/Pilha.java",
+   "nome": "Pilha",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Pilha usando Vetores - Estudo/src/TestePilha.java",
+   "nome": "TestePilha",
+   "categoria": "JOptionPane",
+   "status": "pendente",
+   "portadoEm": null
+  },
+  {
+   "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Puc-Goias/1054 - Estrutura de Dados - Prova N1/src/padrao/Lista.java",
+   "nome": "Lista",
+   "categoria": "Outros",
+   "status": "pendente",
+   "portadoEm": null
+  }
+ ]
+}

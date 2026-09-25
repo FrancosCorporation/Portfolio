@@ -1,0 +1,11 @@
+{
+  "name": "arcade-java-to-js-portfolio",
+  "version": "0.1.0",
+  "description": "Arcade web: conversao continua da colecao de exercicios Java (Senac/PUC) para JavaScript",
+  "main": "server.js",
+  "type": "module",
+  "license": "MIT",
+  "author": "Rodolfo Franco (FrancosCorporation)",
+  "scripts": { "start": "node server.js", "test": "node test/arcade-test.mjs" },
+  "engines": { "node": ">=18" }
+}
