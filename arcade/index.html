@@ -1,17 +1,51 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Arcade Java → JS — organizar_lista_exercicios</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <header class="topo">
-    <h1>🕹️ Arcade Java → JS</h1>
-    <p id="resumo" class="subtitulo">carregando inventário...</p>
-  </header>
-  <main id="menu" class="menu"></main>
-  <script src="menu.js"></script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#101722" />
+    <meta name="description" content="Explore conversões para web de exercícios e projetos Java." />
+    <title>Arcade Java → JS</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="menu.js" defer></script>
+  </head>
+  <body>
+    <header class="topo">
+      <a class="marca" href="./" aria-label="Página inicial do arcade">
+        <span class="marca-icone" aria-hidden="true">J</span>
+        <span>Portfólio <span class="marca-separador">/</span> Arcade</span>
+      </a>
+      <div class="topo-conteudo">
+        <p class="sobretitulo">Coleção de estudos · Java para web</p>
+        <h1>Uma coleção que continua evoluindo.</h1>
+        <p class="introducao">Explore os programas catalogados, abra as versões web disponíveis ou consulte o código Java original.</p>
+        <p id="resumo" class="resumo" aria-live="polite">Carregando catálogo…</p>
+      </div>
+    </header>
+
+    <main class="conteudo">
+      <section class="filtros" aria-label="Filtros do catálogo">
+        <label class="campo-busca" for="busca">
+          <span>Buscar no catálogo</span>
+          <input id="busca" type="search" placeholder="Nome, categoria ou caminho" autocomplete="off" />
+        </label>
+        <label class="campo-status" for="filtro-status">
+          <span>Status</span>
+          <select id="filtro-status">
+            <option value="todos">Todos</option>
+            <option value="portado">Convertidos</option>
+            <option value="pendente">Na fila</option>
+          </select>
+        </label>
+      </section>
+
+      <p id="resultados" class="resultados" aria-live="polite"></p>
+      <div id="menu" class="menu" aria-busy="true"></div>
+    </main>
+
+    <footer class="rodape">
+      <p>Os programas marcados como pendentes ainda não têm uma conversão web neste catálogo.</p>
+      <a href="https://github.com/FrancosCorporation/Portfolio" target="_blank" rel="noopener noreferrer">Ver repositório no GitHub</a>
+    </footer>
+  </body>
 </html>
