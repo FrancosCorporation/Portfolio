@@ -1,28 +1,34 @@
 # Portfolio
 
-## ℹ️ Sobre este repositório
+## Sobre esta coleção
 
-Portfólio Eclipse com projetos Java da carreira inicial (coleção).
-Todos os projetos acabados !!
+Arquivo de projetos de estudo em Java, feitos em diferentes etapas da faculdade e do início da carreira. Há trabalhos concluídos, exercícios e protótipos; nem todos são projetos de produção.
 
-# Entre os começos de semestres na faculdade !
-Nada de muito profissional .
+## Arcade Java → JS
 
----
+O arcade reúne arquivos Java únicos e aponta para conversões web disponíveis. O manifesto tem **376 arquivos**: **33 marcados como convertidos** e **343 na fila**. Esses números vêm de [`arcade/manifest.json`](arcade/manifest.json).
 
-# 🕹️ Arcade Java → JS (conversão contínua)
+Alguns projetos maiores têm versões próprias:
 
-Os projetos principais desta coleção **já foram convertidos para web** e vivem em repos próprios:
-
-| Projeto da coleção | Versão web |
+| Projeto | Versão web |
 |---|---|
-| Jogo Da Velha | https://francoscorporation.github.io/jogo_da_velha_ia/ |
-| Projeto Calculadora | https://github.com/FrancosCorporation/calculadora |
-| Chat | https://github.com/FrancosCorporation/chat_criptografado |
-| Analizador CSV (Projeto Integrador) | https://github.com/FrancosCorporation/projeto_integrador_analisador_csv |
+| Jogo da Velha | [Abrir jogo](https://francoscorporation.github.io/jogo_da_velha_ia/) |
+| Calculadora | [Abrir repositório](https://github.com/FrancosCorporation/calculadora) |
+| Chat | [Abrir repositório](https://github.com/FrancosCorporation/chat_criptografado) |
+| Analisador CSV | [Abrir repositório](https://github.com/FrancosCorporation/projeto_integrador_analisador_csv) |
 
-O restante da coleção (353 apps únicos catalogados com dedup por hash) está sendo convertido
-em lotes para o arcade: **`arcade/`** (`npm start` → http://localhost:3000/arcade/).
-O catálogo completo com status de cada app está em `arcade/manifest.json` —
-as IAs executam os lotes seguintes seguindo a ordem do manifest (GUI → JOptionPane → console),
-portando cada app para `arcade/apps/<nome>/` com teste no `test/`.
+O primeiro programa convertido dentro do próprio arcade é **Abrir link**. Ele substitui a abertura repetida em segundo plano por uma ação manual, com validação de protocolo e aviso claro.
+
+### Abrir o arcade localmente
+
+Requer Node.js 18 ou superior. Na raiz deste repositório:
+
+```bash
+npm start
+```
+
+Abra o endereço mostrado no terminal (por padrão, `http://127.0.0.1:3000/`). O servidor local atende apenas a pasta `arcade/` e escuta somente no próprio computador.
+
+No catálogo, pesquise por nome, categoria ou caminho; filtre por convertidos ou itens na fila; abra uma versão web quando houver link ou consulte o arquivo Java original no GitHub. Use `npm run check` para validar a sintaxe dos arquivos JavaScript do arcade.
+
+As conversões devem seguir a ordem e as categorias de `arcade/manifest.json`. Só marque um item como convertido quando existir uma implementação web correspondente e um link funcional. A suíte de testes automatizados ainda precisa ser criada.
