@@ -1,35 +1,35 @@
-import React from 'react';
-import '../styles/global.css'
-import '../styles/pages/landing.css'
+import { FiArrowRight } from 'react-icons/fi';
+import { Link } from 'react-router-dom';
 import logoimg from '../images/logo.svg';
-import {FiArrowRight} from 'react-icons/fi';
-import {Link} from 'react-router-dom'
+import '../styles/pages/landing.css';
 
-function Landing(){
-return(
+export default function Landing() {
+  return (
     <div id="page-landing">
       <div className="content-wrapper">
-        <img src={logoimg} alt="Happy" />
+        <header className="landing-header">
+          <img src={logoimg} alt="Happy" />
+          <p className="location"><strong>Inhumas</strong><span>Goiás, Brasil</span></p>
+        </header>
 
-        <main>
-          <h1>Leve Felicidade para o mundo</h1>
-          <p>
-            Visite orfanatos e mude o dia
-            de muitas crianças.
-        </p>
+        <main className="landing-copy">
+          <p className="eyebrow">Visitas que fazem a diferença</p>
+          <h1>Leve felicidade para mais perto.</h1>
+          <p className="landing-description">
+            Encontre instituições cadastradas e planeje uma visita com carinho e respeito.
+          </p>
+          <Link to="/app" className="explore-link">
+            Explorar o mapa <FiArrowRight aria-hidden="true" />
+          </Link>
         </main>
 
-        <div className="location">
-          <strong> Inhumas</strong>
-          <span>Góias</span>
-        </div>
-        <Link to="/app" className="Enter-App">
-          <FiArrowRight size={26} color="rgba(0,0,0,0.6)"/>
-        </Link>
-
+        <footer className="landing-footer">
+          <span>Comece por Inhumas, Goiás.</span>
+          <Link to="/app" className="Enter-App" aria-label="Abrir mapa de instituições">
+            <FiArrowRight aria-hidden="true" />
+          </Link>
+        </footer>
       </div>
     </div>
-);
+  );
 }
-
-export default Landing;

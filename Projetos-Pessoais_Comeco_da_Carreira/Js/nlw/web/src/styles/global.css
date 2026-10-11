@@ -1,17 +1,28 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500;600;700;800;900&display=swap');
+
+:root {
+  font-family: Nunito, system-ui, sans-serif;
+  color: #163b3b;
+  background: #ebf5f4;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  --verde-escuro: #174d4d;
+  --verde: #2f9b88;
+  --verde-claro: #e2f3ef;
+  --amarelo: #ffd666;
+  --texto-suave: #617c7a;
 }
 
-body {
-    color: #fff;
-    background: #ebf2f5;
-}
+* { box-sizing: border-box; }
+html { min-width: 320px; min-height: 100%; }
+body { min-width: 320px; min-height: 100vh; margin: 0; }
+button, input, textarea, select { font: inherit; }
+a { color: inherit; }
+a:focus-visible, button:focus-visible { outline: 3px solid #f2b83e; outline-offset: 4px; }
 
-body,
-input,
-button,
-textarea {
-    font: 600 18px Nunito, sans-serif;
-}
+.eyebrow { margin: 0; color: var(--verde); font-size: 12px; font-weight: 900; letter-spacing: .14em; text-transform: uppercase; }
+
+.not-found { display: grid; min-height: 100vh; align-content: center; justify-items: center; gap: 16px; padding: 24px; text-align: center; }
+.not-found p { color: var(--verde); font-weight: 900; }
+.not-found h1 { margin: 0; font-size: clamp(28px, 5vw, 48px); }
+.not-found a { color: var(--verde-escuro); font-weight: 800; }

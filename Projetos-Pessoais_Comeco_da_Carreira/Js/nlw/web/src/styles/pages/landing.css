@@ -1,70 +1,60 @@
 #page-landing {
-    width: 100vw;
-    height: 100vh;
-    background: linear-gradient(329.54deg, #29B6D1 0%, #00C7C7 100%);
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 24px;
+  background: linear-gradient(132deg, #dff3ed 0%, #b9e8dc 48%, #83d2c2 100%);
 }
 
 #page-landing .content-wrapper {
-    position: relative;
-    width: 100%;
-    max-width: 67%;
-    height: 100%;
-    max-height: 78%;
-    display: flex;
-    align-items: flex-start;
-    flex-direction: column;
-    justify-content: space-between;
-    background: url('../../images/lading.svg') no-repeat 80% center;
+  position: relative;
+  display: flex;
+  width: min(100%, 1180px);
+  min-height: min(760px, calc(100vh - 80px));
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 34px clamp(24px, 6vw, 78px);
+  overflow: hidden;
+  border: 1px solid rgb(255 255 255 / 60%);
+  border-radius: 30px;
+  background: rgb(245 251 247 / 75%) url('../../images/lading.svg') no-repeat 92% 52% / min(56%, 620px) auto;
+  box-shadow: 0 30px 90px rgb(22 76 70 / 12%);
 }
 
-.content-wrapper .location {
-    position: absolute;
-    right: 0;
-    top: 0;
-    font-size: 24px;
-    line-height: 34px;
-    flex-direction: column;
-    display: flex;
-    text-align: right;
+.landing-header, .landing-footer { display: flex; align-items: center; justify-content: space-between; gap: 24px; }
+.landing-header img { width: 142px; max-height: 52px; object-fit: contain; object-position: left center; }
+.location { display: flex; flex-direction: column; margin: 0; color: var(--verde-escuro); text-align: right; }
+.location strong { font-size: 16px; font-weight: 900; }
+.location span { color: var(--texto-suave); font-size: 13px; }
+.landing-copy { width: min(47%, 500px); margin: auto 0; padding: 52px 0; }
+.landing-copy h1 { max-width: 490px; margin: 14px 0 0; color: #164e4b; font-size: clamp(40px, 6vw, 70px); font-weight: 900; letter-spacing: -.055em; line-height: .99; }
+.landing-description { max-width: 410px; margin: 22px 0 0; color: #4e6e69; font-size: 17px; line-height: 1.65; }
+.explore-link { display: inline-flex; min-height: 50px; align-items: center; gap: 12px; margin-top: 30px; padding: 0 18px; border-radius: 12px; background: var(--verde-escuro); color: white; font-size: 14px; font-weight: 800; text-decoration: none; transition: background-color .18s ease, transform .18s ease; }
+.explore-link:hover { transform: translateY(-2px); background: #226d63; }
+.explore-link svg { width: 18px; height: 18px; }
+.landing-footer { color: #53756f; font-size: 12px; font-weight: 700; }
+.Enter-App { display: grid; width: 54px; height: 54px; flex: 0 0 auto; place-items: center; border-radius: 17px; background: var(--amarelo); color: #664e12; transition: background-color .18s ease, transform .18s ease; }
+.Enter-App:hover { transform: translateX(3px); background: #ffe49d; }
+.Enter-App svg { width: 24px; height: 24px; }
+
+@media (max-width: 800px) {
+  #page-landing { padding: 0; }
+  #page-landing .content-wrapper { min-height: 100vh; border: 0; border-radius: 0; background-position: 100% 53%; background-size: min(70%, 480px) auto; }
+  .landing-copy { width: min(70%, 460px); }
 }
 
-.content-wrapper .location strong {
-    font-weight: 800;
+@media (max-width: 560px) {
+  #page-landing .content-wrapper { padding: 24px 22px; background-position: center 62%; background-size: min(92%, 390px) auto; }
+  .landing-header img { width: 118px; }
+  .location strong { font-size: 14px; }
+  .location span { font-size: 12px; }
+  .landing-copy { width: 100%; margin: auto 0 0; padding: 52px 0 38px; }
+  .landing-copy h1 { max-width: 440px; font-size: clamp(40px, 13vw, 60px); }
+  .landing-description { max-width: 360px; font-size: 15px; }
+  .landing-footer { font-size: 11px; }
 }
 
-.content-wrapper .Enter-App {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    width: 80px;
-    height: 80px;
-    background: #ffd666;
-    border-radius: 30px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: background-color 0.2s;
-}
-
-.content-wrapper .Enter-App:hover {
-    background: #96feff;
-}
-
-#page-landing .content-wrapper main {
-    max-width: 350px;
-}
-
-#page-landing .content-wrapper main h1 {
-    font-size: 76px;
-    font-weight: 900;
-    line-height: 70px;
-}
-
-#page-landing .content-wrapper main p {
-    margin-top: 40px;
-    font-size: 24px;
-    line-height: 34px;
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition-duration: .01ms !important; }
 }
