@@ -1,7 +1,7 @@
 {
- "gerado": "2026-09-25",
+ "gerado": "2026-10-11",
  "total": 376,
- "pendentes": 345,
+ "pendentes": 343,
  "apps": [
   {
    "arquivo": "Java/Chat/src/Exemplos/ArquivodeScripCliente.java",
@@ -210,15 +210,15 @@
    "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Em Desenvolvimeto/Abrindo Link/src/Padrao/NovaAba.java",
    "nome": "NovaAba",
    "categoria": "Swing-GUI",
-   "status": "pendente",
-   "portadoEm": null
+   "status": "portado",
+   "portadoEm": "arcade/apps/abrir-link/"
   },
   {
    "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Em Desenvolvimeto/Abrindo Link/src/Padrao/webBrowser.java",
    "nome": "webBrowser",
    "categoria": "Outros",
-   "status": "pendente",
-   "portadoEm": null
+   "status": "portado",
+   "portadoEm": "arcade/apps/abrir-link/"
   },
   {
    "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Em Desenvolvimeto/Baixando Videos/src/padrao/FazDownload.java",

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#101722" />
+    <title>Abrir link · Arcade Java → JS</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <main class="pagina">
+      <a class="voltar" href="../../">← Voltar ao catálogo</a>
+      <section class="painel" aria-labelledby="titulo">
+        <p class="sobretitulo">Conversão de Abrindo Link</p>
+        <h1 id="titulo">Abra um link com segurança</h1>
+        <p class="descricao">Informe um endereço e abra-o em uma nova aba quando estiver pronto. O navegador não abrirá páginas repetidamente em segundo plano.</p>
+
+        <form id="formulario-link" novalidate>
+          <label for="endereco">Endereço da página</label>
+          <input id="endereco" name="endereco" type="text" inputmode="url" autocomplete="url" placeholder="https://exemplo.com" required />
+          <p class="dica">Se o endereço não tiver protocolo, usaremos HTTPS.</p>
+          <button type="submit">Abrir em nova aba</button>
+        </form>
+
+        <p id="mensagem" class="mensagem" role="status" aria-live="polite"></p>
+        <p class="aviso">Somente endereços HTTP e HTTPS são aceitos. Confira o destino antes de continuar.</p>
+      </section>
+    </main>
+  </body>
+</html>
