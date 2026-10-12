@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#101722" />
+    <title>Conversor de bases · Arcade Java → JS</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <main class="pagina">
+      <a class="voltar" href="../../">← Voltar ao catálogo</a>
+      <section class="painel" aria-labelledby="titulo">
+        <p class="sobretitulo">Conversão de Conversor de Bases</p>
+        <h1 id="titulo">Conversor de bases numéricas</h1>
+        <p class="descricao">Digite um valor em binário, octal, decimal ou hexadecimal para ver as outras representações.</p>
+
+        <form id="formulario-conversao" novalidate>
+          <div class="campos">
+            <div class="campo">
+              <label for="base-origem">Base do valor</label>
+              <select id="base-origem" name="base" aria-describedby="ajuda">
+                <option value="2">Binário (2)</option>
+                <option value="8">Octal (8)</option>
+                <option value="10" selected>Decimal (10)</option>
+                <option value="16">Hexadecimal (16)</option>
+              </select>
+            </div>
+            <div class="campo">
+              <label for="valor">Número</label>
+              <input id="valor" name="valor" type="text" inputmode="text" autocomplete="off" required />
+            </div>
+          </div>
+          <p id="ajuda" class="dica">Aceita sinal + ou -. O intervalo é de -2.147.483.648 a 2.147.483.647, como no inteiro Java.</p>
+          <button type="submit">Converter</button>
+        </form>
+
+        <p id="mensagem" class="mensagem" role="status" aria-live="polite"></p>
+        <section class="resultados" aria-labelledby="titulo-resultados" aria-live="polite" aria-atomic="true">
+          <h2 id="titulo-resultados">Resultados</h2>
+          <dl class="grade-resultados">
+            <div><dt>Binário</dt><dd id="resultado-binario">—</dd></div>
+            <div><dt>Octal</dt><dd id="resultado-octal">—</dd></div>
+            <div><dt>Decimal</dt><dd id="resultado-decimal">—</dd></div>
+            <div><dt>Hexadecimal</dt><dd id="resultado-hexadecimal">—</dd></div>
+          </dl>
+        </section>
+      </section>
+    </main>
+  </body>
+</html>

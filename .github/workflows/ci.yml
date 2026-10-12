@@ -1,0 +1,53 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  static:
+    name: Static checks (Node ${{ matrix.node-version }})
+    runs-on: ubuntu-24.04
+    strategy:
+      fail-fast: false
+      matrix:
+        node-version: [22, 24]
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: ${{ matrix.node-version }}
+          package-manager-cache: false
+      - name: Check root JavaScript syntax
+        run: npm run check
+      - name: Validate catalog counts and local conversion pages
+        run: |
+          node --input-type=module <<'JS'
+          import assert from 'node:assert/strict';
+          import { existsSync, readFileSync } from 'node:fs';
+          const manifest = JSON.parse(readFileSync('arcade/manifest.json', 'utf8'));
+          const converted = manifest.apps.filter((app) => app.status === 'portado').length;
+          const pending = manifest.apps.filter((app) => app.status === 'pendente').length;
+          assert.equal(manifest.total, manifest.apps.length);
+          assert.equal(manifest.pendentes, pending);
+          assert.equal(converted + pending, manifest.total);
+          for (const app of manifest.apps) {
+            if (app.status === 'portado' && app.portadoEm?.startsWith('arcade/apps/')) {
+              assert.ok(existsSync(`${app.portadoEm}/index.html`), `missing page for ${app.arquivo}`);
+            }
+          }
+          console.log(`catalog OK: ${manifest.total} total, ${converted} converted, ${pending} pending`);
+          JS
+      - name: Install NLW app dependencies
+        run: npm ci --prefix "Projetos-Pessoais_Comeco_da_Carreira/Js/nlw/web"
+      - name: Audit NLW app dependencies
+        run: npm audit --prefix "Projetos-Pessoais_Comeco_da_Carreira/Js/nlw/web" --audit-level=high
+      - name: Typecheck and build NLW app
+        run: npm run build --prefix "Projetos-Pessoais_Comeco_da_Carreira/Js/nlw/web"

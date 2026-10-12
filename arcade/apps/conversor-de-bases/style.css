@@ -1,0 +1,56 @@
+:root {
+  color-scheme: dark;
+  font-family: Inter, "Segoe UI", system-ui, sans-serif;
+  color: #eef3f9;
+  background: #101722;
+  --suave: #aab7c7;
+  --borda: #2b3a4d;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0;
+  background: radial-gradient(ellipse at top, #1b2a3d 0, #101722 42rem);
+}
+
+.pagina { width: min(100% - 32px, 760px); margin: 0 auto; padding: 36px 0; }
+.voltar { color: #b8cbed; font-size: 14px; text-decoration: none; }
+.voltar:hover { color: #fff; text-decoration: underline; }
+.voltar:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible { outline: 3px solid #95baff; outline-offset: 3px; }
+
+.painel {
+  margin-top: 46px;
+  padding: clamp(24px, 6vw, 48px);
+  border: 1px solid var(--borda);
+  border-radius: 18px;
+  background: #172231;
+  box-shadow: 0 24px 80px rgb(0 0 0 / 20%);
+}
+
+.sobretitulo { margin: 0 0 12px; color: #8bb4ff; font-size: 12px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; }
+h1 { margin: 0; font-size: clamp(30px, 6vw, 46px); letter-spacing: -.04em; line-height: 1.1; }
+.descricao { margin: 17px 0 30px; color: #c0ccda; font-size: 15px; line-height: 1.65; }
+.campos { display: grid; grid-template-columns: minmax(160px, .7fr) minmax(0, 1.3fr); gap: 14px; }
+.campo { display: grid; gap: 9px; }
+label { color: #d9e3ef; font-size: 13px; font-weight: 700; }
+input, select { width: 100%; min-height: 48px; padding: 0 14px; border: 1px solid #42536a; border-radius: 9px; background: #101a27; color: #f4f7fb; font: inherit; font-size: 15px; }
+.dica { margin: 10px 0 0; color: var(--suave); font-size: 12px; line-height: 1.6; }
+button { width: 100%; min-height: 46px; margin-top: 18px; border: 0; border-radius: 9px; background: #4b7fda; color: white; font: inherit; font-size: 14px; font-weight: 700; cursor: pointer; }
+button:hover { background: #5c90eb; }
+.mensagem { min-height: 24px; margin: 16px 0 0; color: #9ce3c3; font-size: 13px; }
+.mensagem.erro { color: #ff9d9d; }
+.resultados { margin-top: 20px; padding-top: 20px; border-top: 1px solid var(--borda); }
+h2 { margin: 0 0 14px; font-size: 16px; }
+.grade-resultados { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; margin: 0; }
+.grade-resultados div { min-width: 0; padding: 14px; border: 1px solid var(--borda); border-radius: 10px; background: #101a27; }
+dt { color: var(--suave); font-size: 12px; }
+dd { overflow-wrap: anywhere; margin: 7px 0 0; color: #eef3f9; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 15px; }
+
+@media (max-width: 520px) {
+  .pagina { padding-top: 24px; }
+  .painel { margin-top: 32px; }
+  .campos, .grade-resultados { grid-template-columns: 1fr; }
+}

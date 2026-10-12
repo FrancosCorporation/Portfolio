@@ -6,7 +6,7 @@ Arquivo de projetos de estudo em Java, feitos em diferentes etapas da faculdade 
 
 ## Arcade Java → JS
 
-O arcade reúne arquivos Java únicos e aponta para conversões web disponíveis. O manifesto tem **376 arquivos**: **33 marcados como convertidos** e **343 na fila**. Esses números vêm de [`arcade/manifest.json`](arcade/manifest.json).
+O arcade reúne arquivos Java únicos e aponta para conversões web disponíveis. O manifesto tem **376 arquivos**: **36 marcados como convertidos** e **340 na fila**. Esses números vêm de [`arcade/manifest.json`](arcade/manifest.json).
 
 Alguns projetos maiores têm versões próprias:
 
@@ -17,11 +17,11 @@ Alguns projetos maiores têm versões próprias:
 | Chat | [Abrir repositório](https://github.com/FrancosCorporation/chat_criptografado) |
 | Analisador CSV | [Abrir repositório](https://github.com/FrancosCorporation/projeto_integrador_analisador_csv) |
 
-O primeiro programa convertido dentro do próprio arcade é **Abrir link**. Ele substitui a abertura repetida em segundo plano por uma ação manual, com validação de protocolo e aviso claro.
+O arcade já inclui **Abrir link** e **Conversor de bases**. O conversor reúne três classes Java do mesmo exercício e apresenta binário, octal, decimal e hexadecimal em uma interface web.
 
 ### Abrir o arcade localmente
 
-Requer Node.js 18 ou superior. Na raiz deste repositório:
+Requer Node.js 22.12 ou superior. Na raiz deste repositório:
 
 ```bash
 npm start

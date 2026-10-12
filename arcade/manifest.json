@@ -1,7 +1,7 @@
 {
- "gerado": "2026-10-11",
+ "gerado": "2026-10-12",
  "total": 376,
- "pendentes": 343,
+ "pendentes": 340,
  "apps": [
   {
    "arquivo": "Java/Chat/src/Exemplos/ArquivodeScripCliente.java",
@@ -238,22 +238,22 @@
    "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Em Desenvolvimeto/Conversor de Bases/src/FrontEnd/NewFrontEnd.java",
    "nome": "NewFrontEnd",
    "categoria": "Swing-GUI",
-   "status": "pendente",
-   "portadoEm": null
+   "status": "portado",
+   "portadoEm": "arcade/apps/conversor-de-bases"
   },
   {
    "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Em Desenvolvimeto/Conversor de Bases/src/Logica/Logica_1.java",
    "nome": "Logica_1",
    "categoria": "Outros",
-   "status": "pendente",
-   "portadoEm": null
+   "status": "portado",
+   "portadoEm": "arcade/apps/conversor-de-bases"
   },
   {
    "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Em Desenvolvimeto/Conversor de Bases/src/Logica/Teste.java",
    "nome": "Teste",
    "categoria": "Console-Scanner",
-   "status": "pendente",
-   "portadoEm": null
+   "status": "portado",
+   "portadoEm": "arcade/apps/conversor-de-bases"
   },
   {
    "arquivo": "Projetos-Pessoais_Comeco_da_Carreira/Java/Em Desenvolvimeto/Meuapp/app/RodolfoChat.java",

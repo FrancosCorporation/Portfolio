@@ -8,7 +8,7 @@
   "author": "Rodolfo Franco (FrancosCorporation)",
   "scripts": {
     "start": "node server.js",
-    "check": "node --check server.js && node --check arcade/menu.js && node --check arcade/apps/abrir-link/app.js"
+    "check": "node --check server.js && node --check arcade/menu.js && node --check arcade/apps/abrir-link/app.js && node --check arcade/apps/conversor-de-bases/app.js"
   },
-  "engines": { "node": ">=18" }
+  "engines": { "node": ">=22.12.0" }
 }
